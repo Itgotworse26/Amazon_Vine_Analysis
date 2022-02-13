@@ -33,6 +33,6 @@ The differences in amounts of five-star reviews between Amazon Vine and non-Amaz
 
 The differences are even more visible with one-star reviews. While only 1% of Vine users left one-star reviews, 25.46% of non-Amazon Vine users left one-star reviews.
 
-There is an argument that could be made that for video games, Vine users definitely are more likely to leave positive reviews. For video game publishers, being able to send free proucts to Vine users most likely had an affect on the review scores.
+There is an argument that could be made that for video games, Vine users definitely are more likely to leave positive reviews. For video game publishers, being able to send free proucts to Vine users most likely had an effect on the review scores if the gap between 5 stars and 1 star reviews are seen as above. 
 
 Another analysis that I would recommend is an analysis of whether verified purchases affect star ratings. Being able to identify the number of verified purchases between Vine and non-Vine users and observing how it affects ratings should help identify whether Amazon's review scores are accurate and unbiased. 
