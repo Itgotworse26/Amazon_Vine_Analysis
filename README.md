@@ -16,13 +16,13 @@ As seen in the results below:
 
 ![Summary Dataframe](https://github.com/Itgotworse26/Amazon_Vine_Analysis/blob/main/analysis/summary_df.JPG)
 
-In a summary of 5 Star reviews:
+In a summary of 5 Star reviews of video games sold by Amazon:
 
 * There are 94 Amazon Vine reviews and 40,471 non-Amazon Vine reviews.
 * 48 Amazon Vine reviews were 5 stars. 15,663 non-Amazon Vine reviews were 5 stars.
 * About 51.06% of Amazon Vine reviews were 5 stars. About 38.7% of non-Amazon Vine reviews were 5 stars.
 
-Meanwhile, in a summary of 1 Star reviews:
+Meanwhile, in a summary of 1 Star reviews of video games sold by Amazon:
 
 * Only 1 Amazon Vine review was 1 star. 10,303 non-Vine reviews were 1 star.
 * About 1.06% of Amazon Vine reviews were 1 star. About 25.46% of non-Amazon Vine reviews were 1 star.
@@ -35,4 +35,4 @@ The differences are even more visible with one-star reviews. While only 1% of Vi
 
 There is an argument that could be made that for video games, Vine users definitely are more likely to leave positive reviews. For video game publishers, being able to send free proucts to Vine users most likely had an effect on the review scores if the gap between 5 stars and 1 star reviews are seen as above. 
 
-Another analysis that I would recommend is an analysis of whether verified purchases affect star ratings. Being able to identify the number of verified purchases between Vine and non-Vine users and observing how it affects ratings should help identify whether Amazon's review scores are accurate and unbiased. 
+Another analysis that I would recommend is an analysis of whether verified purchases affect star ratings. Being able to identify the number of verified purchases between Vine and non-Vine users and observing how it affects ratings should help identify whether Amazon's review scores are accurate and unbiased. Unfortunately, the difficulties of working with RDS means that pursuing this project on my own time would be difficult. 
